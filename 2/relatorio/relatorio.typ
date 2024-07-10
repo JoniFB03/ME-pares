@@ -14,9 +14,9 @@
     #link("mailto:Andre_Plancha@iscte-iul.pt")
   ],
   align(center)[
-    Dr. John Doe \
-    Artos Institute \
-    #link("mailto:doe@artos.edu")
+    João Botas \
+    104782, CDC1 \
+    #link("mailto:Joao_Botas@iscte-iul.pt")
   ]
 )
 #v(15pt)
